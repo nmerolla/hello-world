@@ -1,2 +1,2 @@
 # hello-world
-Azure Study Space Game
+Azure Study Space Game for test AZ300
